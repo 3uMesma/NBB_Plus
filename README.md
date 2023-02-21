@@ -11,3 +11,7 @@ https://www.figma.com/proto/ra8I6cCGkCd9Do8EYNlYzC/Alura-Plus---Layout-(Copy)?no
 
 ## Curso de Apoio:
 - HTML e CSS: praticando HTML/CSS
+  - Construa um site utilizando HTML e CSS
+  - Identifique elementos e estilos através do Figma
+  - Aplique seus conhecimentos adquiridos até agora em um projeto real
+  - Crie um repositório para armazenar o código do projeto

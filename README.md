@@ -6,6 +6,8 @@ A ideia desse projeto foi simular o site de um serviço de streaming de partidas
 
 ## Figma do Projeto
 Antes de programar a página, foi elaborado um protótipo na plataforma Figma, que está disponível abaixo:
+
 https://www.figma.com/proto/ra8I6cCGkCd9Do8EYNlYzC/Alura-Plus---Layout-(Copy)?node-id=59902%3A8&scaling=min-zoom&page-id=0%3A1
 
-## 
+## Curso de Apoio:
+- HTML e CSS: praticando HTML/CSS

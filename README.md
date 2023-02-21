@@ -4,6 +4,8 @@ O Novo Basquete Brasil (NBB) é uma competição brasileira de basquetebol mascu
 
 A ideia desse projeto foi simular o site de um serviço de streaming de partidas da basquete da NBB. Por enquanto apenas a Homepage está pronta, mas, futuramente mais páginas serão adicionadas. Para criar o site foram utilizados como inspiração os sites de diversos serviços de streaming famosos, como a Disney+ e a Prime Video, mas também foi utilizado o material base do curso HTML e CSS: praticando HTML/CSS.
 
+Acesse o link do projeto aqui: https://3umesma.github.io/NBB_Plus/
+
 ## Figma do Projeto
 Antes de programar a página, foi elaborado um protótipo na plataforma Figma, que está disponível abaixo:
 
